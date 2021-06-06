@@ -1,4 +1,4 @@
-# How-to-create-Right-Aligned-Menu-Links-using-HTML-CSS-
+# How to create Right Aligned Menu Links using HTMLCSS
 copy the code and just paste in your HTML document
 
 Code by Vivek Akkaldevi
